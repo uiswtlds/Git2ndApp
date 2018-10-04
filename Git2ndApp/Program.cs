@@ -10,6 +10,9 @@ namespace Git2ndApp
     {
         static void Main(string[] args)
         {
+            string message = "Benvenuto";
+            Console.Write(message);
+            Console.WriteLine();
         }
     }
 }
